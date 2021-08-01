@@ -70,6 +70,8 @@ header{
 
 /*Cuerpo de la pagina*/
 
+/*************************/
+/*Parte del video*/
 video{
     top: 0;
     left: 0;
@@ -91,6 +93,8 @@ video{
     z-index: 1;
     opacity: .30;
 }
+
+
 .Identidad{
     height: 600px;
     background-image: radial-gradient(circle at 84.09% 9.37%, #ff732e 0, #ff5f3b 12.5%, #ff4a44 25%, #fd324a 37.5%, #e6144c 50%, #cd004d 62.5%, #b7004d 75%, #a2004e 87.5%, #90004f 100%);
